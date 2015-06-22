@@ -2,6 +2,7 @@
 Facial recognition prediction challenge
 
 ## Report
+The complete report can be found on the folder doc. Otherwise you can found it here : 
 [Report of the challenge](doc/Challenge2_Rapport.pdf)
 
 ## Run the code
